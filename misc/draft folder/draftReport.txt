@@ -1,0 +1,40 @@
+Report created: 
+	4/8/2022	10:02:37 AM
+
+Project name: draft.aep
+
+Source files collected to: 
+	C:\repos\_vrMuseum\drafts\draft folder
+
+Source files collected: All
+
+Collected comps:  
+	video_1920x1080_2022-04-07_02-21-41_QB623
+	video_1920x1080_2022-04-07_20-47-13_JAYTO
+	video_1920x1080_2022-04-07_21-00-43_DO88Y
+	video_1920x1080_2022-04-07_21-13-30_0KMME
+	
+Number of collected files:  8
+
+Size of collected files:  1.1 GB
+
+Collected source files: 
+	C:\Users\troye\Desktop\April by Duomo Song License_01.mp3
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_02-21-41_QB623.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_20-47-13_JAYTO.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_21-00-43_DO88Y.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_21-13-30_0KMME.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_22-12-28_ZWOSP.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_23-00-12_YJYK7.mp4
+	C:\Users\troye\Downloads\museumVR-20220408T130908Z-001\museumVR\Pans\video_1920x1080_2022-04-07_23-18-19_QGW2W.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  2
+
+Effect:  Curves
+	
+Effect:  Hue/Saturation
+	
+
